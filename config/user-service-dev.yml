@@ -14,7 +14,6 @@ spring:
     username: admin
     password: admin
 #    virtual-host: /wht/jj   ·ÖÖ§Â·¾¶
-
 #--    
 server:
   port: 8101
