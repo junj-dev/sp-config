@@ -13,7 +13,7 @@ spring:
     port: 5672
     username: admin
     password: admin
-#    virtual-host: /wht/jj   ·ÖÖ§Â·¾¶
+#    virtual-host: /wht/jj   åˆ†æ”¯è·¯å¾„
 #--    
 server:
   port: 8101
