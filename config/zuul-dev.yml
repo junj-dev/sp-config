@@ -4,6 +4,12 @@ spring:
   cloud:
     config:
       override-none: true
+  rabbitmq:
+    host: 192.168.92.140
+    port: 5672
+    username: admin
+    password: admin
+#    virtual-host: /wht/jj   分支路径
     
 server:
   port: 3001
